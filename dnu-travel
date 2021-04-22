@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="x-UA-Compatible" content="ie=edge">
+	
+	<link rel="stylesheet" href="DNU Final.css">
+<title>DNU Travel Tours</title>
+</head>
+
+<body>	<div class="wrapper">
+	<nav class="main-nav">
+		<ul>
+		<li><a href="DNU Final.html">Home</a></li>
+			<li><a href="DNU Final.html">About</a></li>
+			<li><a href="DNU Final.html">Services</a></li>
+			<li><a href="DNU Final.html">Contact</a></li>
+			
+		</ul>
+		</nav>
+		<section class="top-container">
+		<header class="showcase">
+			<h1> Your One & Only Transport Facility</h1>
+			<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+			<a href="#" class="btn">Read More</a>
+			</header>
+			<div class="top-box top-box-a">
+			<h4> Group Tours</h4>
+				<p class="price">As from Rs 2,500/-</p>
+				<a href="" class="btn"> Reserve Now</a>
+			</div>
+			<div class="top-box top-box-b">
+			<h4> Holiday packages</h4>
+				<p class="price"> As from Rs 1,500/person</p>
+				<a href="" class="btn"> Call Us Now!</a>
+			</div>
+		</section>
+		<section class="boxes">
+		<div class="box"> 
+			<i class="fas fa-luggage-cart fa-4x"></i>
+		<h3>Pick Up</h3>
+		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+					</div>
+			<div class="box">
+			<i class="fas fa-exchange-alt fa-4x"></i>
+				<h3> Transfers</h3>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+			</div>
+			<div class="box">
+		<i class="fab fa-hire-a-helper fa-4x"></i>
+				<h3> Hire</h3>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s </p>
+		</div>
+		<div class="box">
+			<i class="fab fa-hire-a-helper fa-4x"></i>
+			<h3> Tours</h3>
+		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s </p>
+		</div>
+	</div>
+		</section>
+	<section class="info">
+	<img src="logo.jpg"=alt"">
+		<div>
+		<h2> Your Transport on the run</h2>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s  </p>
+			<a href="#" class="btn">Learn More</a>
+		</div>
+	</section>
+	<section class="portfolio">
+	<img src="Hire.jpg"alt="">
+		<img src="Tours.jpg"alt="">
+	</section>
+	<footer>
+	<p> DNU Travel Tours, Copyright & Copy;2021</p>
+	</footer>	
+</body>
+</html>
+
